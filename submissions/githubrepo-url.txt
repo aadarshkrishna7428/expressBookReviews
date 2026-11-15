@@ -1,0 +1,13 @@
+curl -s https://api.github.com/repos/aadarshkrishna7428/expressBookReviews
+
+{
+  "full_name": "aadarshkrishna7428/expressBookReviews",
+  "html_url": "https://github.com/aadarshkrishna7428/expressBookReviews",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  }
+}
+
+https://github.com/aadarshkrishna7428/expressBookReviews
